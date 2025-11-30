@@ -1,9 +1,8 @@
-# 0G RollPlay
+# OnyxVerse
 
-## Decentralized AI-Powered Multi-Chain Gaming Platform
+## Decentralized AI-Powered Finance, Gaming, and Social Interaction Ecosystem
 
-> **Blockchain Gaming on the 0G Network**  
-> 0G RollPlay is a gaming platform built on the **0G Network**, using decentralized AI. It supports multiple blockchains like **Ethereum (EVM)**, **Solana**, and more. Play-to-Earn (P2E) mechanics let you earn real crypto rewards.
+> OnyxVerse is a next-generation ecosystem built on the **optimusfox**, using decentralized AI. It supports multiple blockchains like **Ethereum (EVM)**, **Solana**, and more. Play-to-Earn (P2E) mechanics let you earn real crypto rewards.
 
 ---
 
@@ -41,16 +40,18 @@
 
 ```bash
 git clone <git-repository-url>
-cd 0gRollplay
+cd <project directory name>
 
-# Install root dependencies
+# Install and start backend dependencies
 npm install
+npm start
 
-# Go to the client folder and install its dependencies
+# Install frontend dependencies 
 cd client
 npm install
+cd ..
 
-# Start
+# Run both with one command from the root:
 npm start
 ```
 
@@ -84,5 +85,5 @@ npm start
 - Tag related issues/tasks.
 
 ## Confidentiality
-This repository is proprietary to **0G AI**.
+This repository is proprietary to **optimusfox**.
 
