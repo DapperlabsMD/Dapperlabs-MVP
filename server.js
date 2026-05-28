@@ -5,7 +5,6 @@ const configureMiddleware = require("./middleware");
 const configureRoutes = require("./routes");
 const socketio = require("socket.io");
 const gameSocket = require("./socket/index");
-require("./config/loadEnv")();
 const app = express();
 
 configureMiddleware(app);
@@ -14,7 +13,7 @@ configureMiddleware(app);
 configureRoutes(app);
 
 // ---- AUTO PORT LOGIC ----
-let port = Number(config.PORT) || 7777;
+let port = Number(config.PORT) || 3030;
 let server;
 
 const startServer = () => {
