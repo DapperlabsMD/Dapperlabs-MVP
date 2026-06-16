@@ -1,35 +1,11 @@
-#  Celestium
+#  🌐 EverPlay Blockchain Ecosystem
 
-<p align="center">
-  <img src="./client/public/here-banner.png" alt="Celestium Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-v22-brightgreen" />
-  <img src="https://img.shields.io/badge/React-18-blue" />
-  <img src="https://img.shields.io/badge/Next.js-14-black" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue" />
-  <img src="https://img.shields.io/badge/Web3-Solana-purple" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-cyan" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
-
----
 
 # 🚀 Overview
 
-Celestium is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies.
+EverdreamSoft is a Web3 gaming innovation company focused on transforming online betting, poker, and competitive gaming through blockchain technology. We develop decentralized gaming platforms, smart contract infrastructure, and digital asset ecosystems that enable secure, transparent, and provably fair gaming experiences. By leveraging blockchain, digital ownership, and tokenized economies, we empower players to participate in trusted gaming environments where assets, rewards, and achievements are fully owned and controlled by users.
 
-The platform combines multiplayer gameplay, NFT ownership, blockchain integration, AI systems, and real-time interactions to create a scalable next-generation gaming experience.
-
-Celestium enables players to:
-
-- 🌍 Explore virtual worlds
-- 🎮 Play multiplayer games
-- 🪙 Own blockchain-based assets
-- 💰 Trade NFTs
-- 🔗 Connect Solana wallets
-- ⚡ Interact in real-time environments
+Our solutions combine cutting-edge Web3 technologies with engaging gaming experiences, creating scalable platforms for poker, betting, tournaments, and player-driven economies. Through decentralized infrastructure, transparent game mechanics, and secure digital transactions, EverdreamSoft is helping shape the future of online gaming by fostering fairness, player ownership, and sustainable community growth within the next generation of blockchain-powered entertainment ecosystems.
 
 ---
 
@@ -157,30 +133,6 @@ Before starting, install the following:
 
 ---
 
-# 🚀 Quick Start
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/CelestiumWorkHub/CelestiumVerse.git
-cd celestium
-```
-
----
-
-## 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-or
-
-```bash
-yarn install
-```
-
-
 # ▶️ Run Development Servers
 
 ## Start Backend
@@ -219,7 +171,7 @@ http://localhost:7777
 
 # 🔗 Wallet Integration
 
-Celestium supports:
+EverdreamSoft supports:
 
 - MetaMask Wallet
 - Coinbase Wallet
@@ -267,7 +219,7 @@ Players can securely:
 
 # 🔐 Security
 
-Celestium follows modern Web3 security practices:
+EverdreamSoft follows modern Web3 security practices:
 
 - Wallet-based authentication
 - Encrypted sessions
@@ -330,17 +282,7 @@ MIT License
 
 # 👨‍💻 Developer
 
-Built with passion by the Celestium Team.
-
----
-
-# 📬 Contact
-
-## GitHub
-
-```text
-https://github.com/CelestiumWorkHub/CelestiumVerse
-```
+Built with passion by the EverdreamSoft Team.
 
 ---
 
