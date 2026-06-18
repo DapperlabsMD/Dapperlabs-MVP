@@ -30,7 +30,7 @@ Our solutions combine cutting-edge Web3 technologies with engaging gaming experi
 # 🧠 Tech Stack
 
 ## Frontend
-- React 19
+- React 18
 - Next.js 16
 - TypeScript
 - Tailwind CSS
