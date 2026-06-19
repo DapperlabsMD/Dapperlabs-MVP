@@ -1,9 +1,9 @@
-#  🌐 Moralis Blockchain Ecosystem
+#  🌐 Dapperlabs Blockchain Ecosystem
 
 
 # 🚀 Overview
 
-Moralis is a Web3 gaming innovation company focused on transforming online betting, poker, and competitive gaming through blockchain technology. We develop decentralized gaming platforms, smart contract infrastructure, and digital asset ecosystems that enable secure, transparent, and provably fair gaming experiences. By leveraging blockchain, digital ownership, and tokenized economies, we empower players to participate in trusted gaming environments where assets, rewards, and achievements are fully owned and controlled by users.
+Dapperlabs is a Web3 gaming innovation company focused on transforming online betting, poker, and competitive gaming through blockchain technology. We develop decentralized gaming platforms, smart contract infrastructure, and digital asset ecosystems that enable secure, transparent, and provably fair gaming experiences. By leveraging blockchain, digital ownership, and tokenized economies, we empower players to participate in trusted gaming environments where assets, rewards, and achievements are fully owned and controlled by users.
 
 Our solutions combine cutting-edge Web3 technologies with engaging gaming experiences, creating scalable platforms for poker, betting, tournaments, and player-driven economies. Through decentralized infrastructure, transparent game mechanics, and secure digital transactions, EverdreamSoft is helping shape the future of online gaming by fostering fairness, player ownership, and sustainable community growth within the next generation of blockchain-powered entertainment ecosystems.
 
