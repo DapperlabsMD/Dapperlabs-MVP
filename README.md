@@ -171,7 +171,7 @@ http://localhost:7777
 
 # 🔗 Wallet Integration
 
-EverdreamSoft supports:
+Dapperlabs supports:
 
 - MetaMask Wallet
 - Coinbase Wallet
@@ -219,7 +219,7 @@ Players can securely:
 
 # 🔐 Security
 
-EverdreamSoft follows modern Web3 security practices:
+Dapperlabs follows modern Web3 security practices:
 
 - Wallet-based authentication
 - Encrypted sessions
@@ -282,7 +282,7 @@ MIT License
 
 # 👨‍💻 Developer
 
-Built with passion by the EverdreamSoft Team.
+Built with passion by the Eapperlabs Team.
 
 ---
 
